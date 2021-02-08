@@ -1,0 +1,22 @@
+#+TITLE: Free LCA
+#+DATE:    February 8, 2021
+
+* Table of Contents :TOC_3:noexport:
+- [[#motivation][Motivation]]
+- [[#description][Description]]
+  - [[#maintainers][Maintainers]]
+- [[#features][Features]]
+
+* Motivation
+A lot of impactful building LCA questions can be answered using publicly available data. The goal of this project is to create open source, web tools that unlock data from EPDs into useful insights.  There are free and proprietary tools that attempt this, but all leave much to be desired. This project aims to be a starting point for implementing the obvious.
+
+* Description
+
++ A collection of LCA web apps useful for North American buildings
+
+** Maintainers
++ @dkurukula (Author)
+
+* Features
+
++ TODO Insulation selector
